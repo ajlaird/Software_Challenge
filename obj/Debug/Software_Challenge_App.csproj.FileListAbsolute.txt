@@ -1,0 +1,13 @@
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\bin\Debug\Software_Challenge_App.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\bin\Debug\Software_Challenge_App.exe
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\bin\Debug\Software_Challenge_App.pdb
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.exe
+c:\users\alex\documents\visual studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.RoomCalculator.resources
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\bin\Debug\Software_Challenge_App.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\bin\Debug\Software_Challenge_App.application
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.exe.manifest
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\Software_Challenge_App\Software_Challenge_App\obj\Debug\Software_Challenge_App.application
